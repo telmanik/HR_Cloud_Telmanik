@@ -1,0 +1,26 @@
+<TT> Telmanik Technologies December 2012
+
+Telmanik.com
+HR Cloud
+Version 1
+------------------------------------------------------------------------------------
+
+Thank you for your recent purchase If you have any problems or questions please feel free to contact us at telmanik.com
+
+step one -
+
+go into Connections folder and find hrcloud.php and edit in your server information.
+
+step two -
+
+upload all files to local intranet or your web server.
+
+username and password are 
+
+admin
+admin 
+
+login and go to the bottom click on update user
+
+And thats it : )
+

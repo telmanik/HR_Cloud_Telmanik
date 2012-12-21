@@ -1,0 +1,4 @@
+<div id="foot" align="center"><p>HR Cloud &copy; 2012 Built by Telmanik Technologies <a href="http://www.telmanik.com/contact.php">Problems? Suggestions to make this program better? </a><!--You may not remove this copyright unless your have permission from Temanik Technologies, or if you have bought the copyright removal rights. You do not have rights or permissions to distribute, resell, this software in anyway. However if you would like to please get permission first. You are allowed to change the script to your liking except for removing the copyright and who it was built by not unless you have written consent from telmanik technologies--></p><p><a href="http://telmanik.com"><img src="assets/images/telmanik-technologies.png" width="232" height="65" alt="telmanik technologies" longdesc="http://telmanik.com" /></a>
+</p></div>
+</body>
+</html>
